@@ -23,5 +23,6 @@ If an already exissting accout nuimber are selected a new account with a differe
     Saves created accounts to file (C:/MoneyMashine/MoneyMashine.txt). During the save all account information are shown.
 It is also possible to edit the saved file manually to ie. create more accounts. file are changed using the followig 
     
-8. 
+7. 7 or q(uit). Save snd Quit
+   Saving created accounts using the same funktion as in step 6 and then closes the program 
 
